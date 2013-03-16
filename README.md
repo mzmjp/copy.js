@@ -1,4 +1,4 @@
-*copy.js
+copy.js
 =======
 
 昔、Javascript の練習で作成した copyright の年数部分を表示させるスクリプトを、jQuery を利用したものに新たに書きなおしてみました。
